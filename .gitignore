@@ -1,2 +1,7 @@
 *.swp
 tags
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+main
