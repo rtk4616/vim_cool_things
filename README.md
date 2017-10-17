@@ -195,6 +195,10 @@
 
 ## 一键部署 Vim 开发环境
 
+```bash
+bash -c "$(curl -fsSL http://localhost:3000/shenyu/.vim/raw/master/install.sh)"
+```
+
 ## 键盘布局
 
 * Esc       交换 ~
