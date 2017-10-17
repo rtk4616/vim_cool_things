@@ -192,3 +192,11 @@
 * Vundle plugin
 * :VundleInstall
 * :VundleClean
+
+## 一键部署 Vim 开发环境
+
+## 键盘布局
+
+* Esc       交换 ~
+* ^         交换 CapsLock
+* Backspace 交换 \
